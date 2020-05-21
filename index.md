@@ -6,13 +6,15 @@ To move back use: <Leader>a
 
 # Development
 * [FZF](FZF)
+* [TMUX](TMUX)
 
 # Oh my ZSH
 - Ctrl + U delete from the cursor to the start of the line.
 - Ctrl + K Delete from cursor to the end of the line
-- Ctrl + W Delete from the cursor to the start of the proceding word
-- Alt + D Dlete from the cursor to the end of the next word
+- Ctrl + W Delete from the cursor to the start of the proceeding word
+- Alt + D Delete from the cursor to the end of the next word
 - Ctrl + L Clear the terminal
+- [Aliases](Aliases)
 
 # VIM Config
 
